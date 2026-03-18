@@ -1,0 +1,24 @@
+# Python virtual environment — never commit this (huge folder)
+backend/venv/
+
+# Environment variables — never commit this (contains API keys!)
+backend/.env
+
+# Python cache files — auto-generated, not needed
+backend/__pycache__/
+backend/*.pyc
+backend/*.pyo
+
+# Node modules — can be reinstalled with npm install
+frontend/node_modules/
+
+# React build output — generated files
+frontend/build/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor folders
+.vscode/
+.idea/

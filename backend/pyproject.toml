@@ -1,0 +1,17 @@
+[project]
+name = "mini-rag-app"
+version = "0.1.0"
+requires-python = ">=3.12"
+
+[project.dependencies]
+dependencies = [
+    "fastapi>=0.111.0",
+    "uvicorn>=0.29.0",
+    "openai>=1.30.0",
+    "python-dotenv>=1.0.0",
+    "numpy>=1.26.0",
+]
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.backends.legacy:build"
