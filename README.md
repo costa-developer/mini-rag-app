@@ -1,4 +1,4 @@
-# ⚽ Mini RAG App — Football Rules Chatbot
+# Mini RAG App — Football Rules Chatbot
 
 A full-stack AI chatbot with RAG (Retrieval-Augmented Generation), LLM streaming, multiple chat sessions, and MCP tool integration.
 
